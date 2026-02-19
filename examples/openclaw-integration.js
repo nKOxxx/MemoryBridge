@@ -3,7 +3,7 @@
  * Shows how Memory Bridge transforms OpenClaw sessions
  */
 
-const MemoryBridge = require('./index.js');
+const MemoryBridge = require('../index.js');
 
 // Initialize memory for OpenClaw
 const memory = new MemoryBridge({
